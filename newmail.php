@@ -99,7 +99,7 @@ $mail->SMTPOptions = array(
             <textarea name="msg" id="msg" class="form-control" placeholder="Write your message" cols="30" rows="4" required></textarea>
           </div>
             <!-- Recaptcha -->
-          <div class="g-recaptcha" data-sitekey="6Lf2oHUUAAAAAAyM0DykMsaICjTpMeDM7VAEfr_D"></div> 
+          <div class="g-recaptcha" data-sitekey="Your Secret Key"></div> 
                                                 
           <div class="form-group">
             <input type="submit" name="submit" id="submit" class="btn btn-primary btn-block" value="Send">
